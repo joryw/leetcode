@@ -1,4 +1,6 @@
 # leetcode
+* [15.三数之和](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/15.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+* [17.电话号码的字母组合](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/17.%20%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
 * [64.最小路径和](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)
 * [72.编辑距离](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/72.%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md)
 * [105.从前序与中序遍历序列构造二叉树](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/105.%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
@@ -10,7 +12,9 @@
 * [695.岛屿的最大面积](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/695.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md)
 * [836.矩阵重叠](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/836.%E7%9F%A9%E9%98%B5%E9%87%8D%E5%8F%A0.md)
 * [876.链表的中间节点](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/876.%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.md)
+* [892.三维形体的表面积](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/892.%20%E4%B8%89%E7%BB%B4%E5%BD%A2%E4%BD%93%E7%9A%84%E8%A1%A8%E9%9D%A2%E7%A7%AF.md)
 * [945.使数组唯一的最小增量](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/945.%E4%BD%BF%E6%95%B0%E7%BB%84%E5%94%AF%E4%B8%80%E7%9A%84%E6%9C%80%E5%B0%8F%E5%A2%9E%E9%87%8F.md)
 * [1071.字符串的最大公因子](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/1071.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E5%AD%90.md)
 * [面试题 字符串压缩](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/%E9%9D%A2%E8%AF%95%E9%A2%98%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8E%8B%E7%BC%A9.md)
+* [面试题 17.16. 按摩师](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.16.%20%E6%8C%89%E6%91%A9%E5%B8%88.md)
 * [面试题40. 最小的k个数](https://github.com/junchao-ustc/leetcode/blob/master/%E9%A2%98%E7%9B%AE/%E9%9D%A2%E8%AF%95%E9%A2%9840.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)
